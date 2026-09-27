@@ -14,3 +14,5 @@ components/
 
 # ignore for the merge to master and orphaning of the gh-pages branch
 doc/build
+
+.DS_Store
